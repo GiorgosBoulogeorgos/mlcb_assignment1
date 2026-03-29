@@ -4,3 +4,7 @@ data/evaluation_data.csv
 
 #ignore report logs
 figures/report.*
+
+data_exploration.html
+MLCB26*
+model_analysis.html
