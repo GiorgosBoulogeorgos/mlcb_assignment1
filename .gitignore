@@ -1,0 +1,6 @@
+#ignore data
+data/development_data.csv
+data/evaluation_data.csv
+
+#ignore report logs
+figures/report.*
